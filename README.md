@@ -10,7 +10,7 @@
 
 :pencil: &nbsp;You can add more exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
 
-****
+*******
 
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
